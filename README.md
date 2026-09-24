@@ -249,10 +249,6 @@ healthcare-patient-analytics/
 │
 └── outputs/
     └── plots/
-        ├── plot1_avg_cost_by_dept.png                  # Dept cost bar chart (main script)
-        ├── plot2_readmission_risk_by_dept.png          # Risk stacked bar (main script)
-        ├── plot3_los_vs_recovery.png                   # LOS vs recovery scatter (main script)
-        ├── plot4_visit_type_donut.png                  # Visit type donut (main script)
         ├── fig1_cost_by_dept.png                       # Avg cost by dept (report figure)
         ├── fig2_readmission_risk.png                   # Readmission risk by dept (report figure)
         ├── fig3_stay_vs_recovery.png                   # LOS vs recovery (report figure)
